@@ -10,7 +10,7 @@
 <p>Integrated the WeatherAPI REST API to fetch and display real-time weather information based on user-entered locations.</p>
 <br>
 <ul>
-<p><b>Features</b><li>
+<p><b>Features</b>
 <li>Live weather data from WeatherAPI</li>
 <li>User location/city input</li>
 <li>Temperature display</li>
